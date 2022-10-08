@@ -1,6 +1,6 @@
 # Dummy Virtual Keyboard
 
-Simple and straight-forward dummy virtual keyboard. Useful to use together with Fusuma
+Simple and straight-forward dummy virtual keyboard. Useful to use together with [Fusuma](https://github.com/iberianpig/fusuma)
 
 ## Usage
 
@@ -30,4 +30,4 @@ sudo systemctl enable --now dummy-virtual-keyboard
 ```
 
 ## Credits
-- mergeinputs
+- [mergeinputs](https://github.com/Ckath/mergeinputsa)
