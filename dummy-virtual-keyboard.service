@@ -1,0 +1,7 @@
+[Unit]
+Description=Dummy Virtual Keyboard Daemon
+After=multi-user.target
+[Service]
+ExecStart=/bin/sh -c '/usr/local/bin/dummy-virtual-keyboard'
+[Install]
+WantedBy=multi-user.target

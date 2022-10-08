@@ -1,0 +1,9 @@
+[package]
+name = "dummy-virtual-keyboard"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+uinput = { version = "0.1.3", default-features = false }
+ctrlc = { version = "3.2", features = ["termination"] }
+clap = { version = "4.0.10", features = ["derive"] }
