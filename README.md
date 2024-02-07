@@ -30,4 +30,4 @@ sudo systemctl enable --now dummy-virtual-keyboard
 ```
 
 ## Credits
-- [mergeinputs](https://github.com/Ckath/mergeinputsa)
+- [mergeinputs](https://github.com/Ckath/mergeinputs)
